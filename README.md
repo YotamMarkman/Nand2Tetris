@@ -1,0 +1,1 @@
+This repository contains my solutions and implementations for the Nand2Tetris course, where I build a complete computer system from scratch, starting from basic logic gates up to a full-fledged operating system.
